@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="Title">Title here</string>
+    <string name="subject">Enter Subject</string>
+    <string name="save">Save</string>
+    <string name="body">Body here</string>
+</resources>
